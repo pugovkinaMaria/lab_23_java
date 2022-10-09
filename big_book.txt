@@ -1,0 +1,1 @@
+Book{name='The Complete Aubrey/Maturin Novels (5 Volumes)', author='Patrick O'Brian', rating=4.7, language='eng', countPages=6576, datePublication=2004-10-17, publishingHouse='W. W. Norton  Company'}
